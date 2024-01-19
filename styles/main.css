@@ -13,6 +13,7 @@
                          "office other"
                          "web other";
     grid-auto-rows: 50px;
+    grid-gap: 5px;
 }
 .apps--office {
     display: grid;
@@ -53,7 +54,7 @@
 
 }
 .app--in-3 {
-  
+  order: -1;
 }
 .app--fun-2 {
     
